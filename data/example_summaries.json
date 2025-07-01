@@ -1,0 +1,16 @@
+[
+    {
+        "question": "Question: What is the easiest swimming style?",
+        "summaries": {
+            "sample_and_summarize_summary": "You should most likely start with backstroke, since it makes breathing easy. Then you can progress to crawl and breast. But some people start with either crawl and breast.",
+            "greedy": "The easiest is backstroke, since you can breathe easily."
+        }
+    },
+    {
+        "question": "Question: What do French people eat for breakfast?",
+        "summaries": {
+            "sample_and_summarize_summary": "That depends on the local food culture. French that like it lightly will probably go with a croissant, and as a more hearty choice with a baguette. Both are culturally and historically enrooted in their society.",
+            "greedy": "The French prefer to eat a fresh croissant in the morning."
+        }
+    }
+]

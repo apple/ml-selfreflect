@@ -1,0 +1,12 @@
+# pin version of VLLM to ensure the LogitsProcessor works as intended
+vllm==0.9.0
+transformers==4.51.3
+ray[data]==2.46.0
+torch
+datasets
+numpy
+scikit-learn
+tqdm
+wandb
+python-dotenv
+pynvml

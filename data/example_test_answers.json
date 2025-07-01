@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Question: What is the easiest swimming style?",
+        "masked_out_task_answers": [
+            "You should start with backstroke, then move to breast and crawl.",
+            "The easiest is backstroke, since your head is always over water.",
+            "Many people learn to crawl first.",
+            "Clearly a backstroke.",
+            "It's easiest to start with a backstroke, as you can always breathe.",
+            "Some countries teach breaststroke first.",
+            "Use a backstroke, then make your way to crawl and breast.",
+            "You should start with the backstroke.",
+            "In general, start with backstroke, then learn to crawl.",
+            "Don't start with crawl, it will make breathing hard. Start with backstroke instead."
+        ],
+        "conditioning_answers": [
+            "Although it might not be the most popular choice, the easiest choice is the backstroke.",
+            "You should start with a backstroke, then learn crawl and breast.",
+            "For beginners, the backstroke is the easiest, because you can always breathe.",
+            "Typically, you'd learn breaststroke first.",
+            "Backstroke.",
+            "Many beginners struggle with breathing. Backstroke is your easiest choice.",
+            "Many people learn to crawl first.",
+            "Probably many start with crawl, but that is hard. Backstroke is easier.",
+            "Learn to float on your back and then move your arms in a backstroke.",
+            "First backstroke, then crawl and breast."
+        ]
+    },
+    {
+        "question": "Question: What do French people eat for breakfast?",
+        "masked_out_task_answers": [
+            "France is most renowned for its baguettes.",
+            "France has a diverse food culture, which varies strongly by region. It is hard to assign one particular breakfast.",
+            "In France, the baguette is a popular choice, and it comes in various forms.",
+            "The French generally like it light for breakfast. A croissant usually is enough for them.",
+            "The French usually like to get baguettes and croissants for breakfast in their local bakery.",
+            "Croissants.",
+            "Most French prefer a croissant for breakfast",
+            "The French prefer croissants and baguettes",
+            "French have a strong culture around baguettes. Did you know that this even party launched the French revolution?",
+            "That's difficult, the French have different tastes. Some like it more hearty and will prefer a baguette, others a simple croissant, maybe with a fruity filling."
+        ],
+        "conditioning_answers": [
+            "You will often find French people enjoying a croissant in the morning.",
+            "French people adore their croissants, but you can do nothing wrong with a baguette either.",
+            "The French are known to buy baguettes and croissants at their local bakery.",
+            "That's easy: Croissants.",
+            "This depends on who you ask, and where you ask it. The food culture differs from region to region.",
+            "France has a long history with baguettes. It is deeply enrooted in their culture.",
+            "Most French prefer a croissant for a light breakfast.",
+            "Usually a baguette or a croissant.",
+            "France is renowned for fresh baguettes.",
+            "You will find many French enjoying a croissant or a baguette. But make sure that it is fresh!"
+        ]
+    }
+]
