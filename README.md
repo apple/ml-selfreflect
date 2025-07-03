@@ -66,7 +66,7 @@ If you found this work useful, we'd be happy if you cited us:
 @article{kirchhof2025self,
       title={Self-reflective Uncertainties: Do {LLMs} Know Their Internal Answer Distribution?},
       author={Michael Kirchhof and Luca Füger and Adam Goliński and Eeshan Gunesh Dhekane and Arno Blaas and Sinead Williamson},
-      journal={arXiv preprint arXiv:22505.20295},
+      journal={arXiv preprint arXiv:2505.20295},
       year={2025}
 }
 ```
